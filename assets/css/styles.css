@@ -1,0 +1,35 @@
+img
+{ 
+    width:100px;
+}
+#titre_principal,nav
+{
+    display: inline-block;
+    vertical-align: bottom;
+}
+nav
+{
+    width: 800px;
+    text-align: right;
+}
+nav ul
+{
+    list-style-type: none;
+}
+nav li 
+{
+    margin-right: 15px; 
+    display: inline-block;    
+}
+
+nav a 
+{ 
+    padding-bottom: 3px; 
+    color: #181818; 
+    font-size: 1.3em; 
+    text-decoration: none; 
+}
+nav a:hover 
+{
+    color: #2adb16;
+}
